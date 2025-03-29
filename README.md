@@ -9,3 +9,4 @@ faster, SQL tuning ensures that queries run efficiently.
 Why is SQL Performance Tuning Important?
 Faster Query Execution: Optimized queries return results quickly.
 Efficient Resource Usage: Reduces CPU, memory, and disk usage.
+SQL PROBLEM SOLVED ON LEETCODE
